@@ -1,0 +1,2 @@
+nada = "nada"
+print(nada)
